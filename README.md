@@ -7,7 +7,7 @@
 
 ### Ajustes e melhorias
 
-O projeto de menu desenvolvido com as seguintes ferramentas:
+Calculadora desenvolvida com as seguintes ferramentas:
 
 - [x] Criação do HTML
 - [x] Criação do CSS
